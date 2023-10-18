@@ -1,0 +1,36 @@
+D:\Project\C#\AppleProductSolution\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\Project\C#\AppleProductSolution\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\Project\C#\AppleProductSolution\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\Project\C#\AppleProductSolution\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C#\AppleProductSolution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\Project\C#\AppleProductSolution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\Project\C#\AppleProductSolution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Project\C#\AppleProductSolution\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\Project\C#\AppleProductSolution\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\Project\C#\AppleProductSolution\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\Project\C#\AppleProductSolution\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\Project\C#\AppleProductSolution\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+D:\Project\C#\AppleProductSolution\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+D:\Project\C#\AppleProductSolution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\Project\C#\AppleProductSolution\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+D:\Project\C#\AppleProductSolution\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\Project\C#\AppleProductSolution\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\Project\C#\AppleProductSolution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+D:\FA2023\PRN221\PRN221 Project\apple-product-manager-g3\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
